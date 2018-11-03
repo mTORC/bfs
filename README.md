@@ -26,6 +26,6 @@ Stone Duke
 Biggs Jax
 
 #### Sample Output:
-Yes
-Babyfaces: Ace Jax Stone
+Yes\ 
+Babyfaces: Ace Jax Stone\ 
 Heels: Biggs Duke
